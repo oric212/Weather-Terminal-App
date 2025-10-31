@@ -2,17 +2,17 @@ A simple Python terminal application that shows the current weather and time for
 
 Features : 
 
-1.Automatically detects your current location using your IP address.
+1. Automatically detects your current location using your IP address.
 
-2.Fetches current weather (temperature and conditions) for your location.
+2. Fetches current weather (temperature and conditions) for your location.
 
-3.Allows you to check weather for any city worldwide.
+3. Allows you to check weather for any city worldwide.
 
-4.Displays weather conditions with emojis for a nicer visual experience.
+4. Displays weather conditions with emojis for a nicer visual experience.
 
-5.Shows the current time formatted in DD/MM/YYYY HH:MM style.
+5. Shows the current time formatted in DD/MM/YYYY HH:MM style.
 
-6.Simple, interactive terminal interface with option to check multiple cities.
+6. Simple, interactive terminal interface with option to check multiple cities.
 
 
 Screenshot:
