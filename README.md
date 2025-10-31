@@ -53,16 +53,16 @@ Weather Codes:
 These weather codes are part of the Open-Meteo API and indicate the current weather condition at a location. Each code is mapped to a description and an emoji for easier visualization.
 
 Code	Condition
-0	Clear ☀️
-1	Mainly Clear 🌤
-2	Partly Cloudy ⛅
-3	Overcast ☁️
-45	Fog 🌫
-48	Depositing rime fog ❄️
-51-55	Drizzle 🌦
-61-65	Rain 🌧
-71-75	Snow ❄️
-80-82	Rain showers 🌧
-95	Thunderstorm ⛈
-99	Thunderstorm with hail ⛈
+0	    Clear ☀️
+1	    Mainly Clear 🌤
+2	    Partly Cloudy ⛅
+3	    Overcast ☁️
+45	  Fog 🌫
+48	  Depositing rime fog ❄️
+51-55	 Drizzle 🌦
+61-65	 Rain 🌧
+71-75	 Snow ❄️
+80-82	 Rain showers 🌧
+95	   Thunderstorm ⛈
+99	   Thunderstorm with hail ⛈
 
